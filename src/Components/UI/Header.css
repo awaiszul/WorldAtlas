@@ -1,0 +1,67 @@
+.Navbar {
+  background-color: black;
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* center by default (small screens) */
+  align-items: center;
+  gap: 1rem;
+  padding: 15px 20px;
+  background-color: black;
+  box-shadow: 0 2px 5px rgba(17, 16, 16, 0.1);
+  color: white;
+  max-width: 900px;
+  margin: auto;
+}
+
+/* Default (small screens) - logo full width centered on top */
+.logo-link {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  width: 100%; /* full width so it's on top */
+}
+
+/* nav full width, center aligned below logo */
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  width: 100%;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  padding: 5px 10px;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #f0a500;
+}
+
+/* Large screens (desktop) */
+@media (min-width: 768px) {
+  .header {
+    flex-wrap: nowrap; /* single line */
+    justify-content: space-between; /* logo left, nav right */
+  }
+
+  .logo-link {
+    width: auto; /* reset width */
+    text-align: left;
+  }
+
+  .nav {
+    width: auto; /* reset width */
+    justify-content: flex-end;
+  }
+}

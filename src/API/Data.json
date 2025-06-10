@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "North America",
+    "population": 38008005,
+    "area": 9984670,
+    "languages": ["English", "French"],
+    "currency": { "name": "Canadian Dollar", "code": "CAD" },
+    "flag": "/flags/canada.png",
+    "description": "Known for its vast wilderness and multicultural cities.",
+    "timezone": "UTC−03:30 to UTC−08:00"
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "population": 125960000,
+    "area": 377975,
+    "languages": ["Japanese"],
+    "currency": { "name": "Yen", "code": "JPY" },
+    "flag": "/flags/japan.png",
+    "description": "An island nation blending tradition with cutting-edge technology.",
+    "timezone": "UTC+09:00"
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "region": "South America",
+    "population": 214300000,
+    "area": 8515767,
+    "languages": ["Portuguese"],
+    "currency": { "name": "Brazilian Real", "code": "BRL" },
+    "flag": "/flags/brazil.png",
+    "description": "Famous for the Amazon rainforest and vibrant culture.",
+    "timezone": "UTC−05:00 to UTC−02:00"
+  },
+  {
+    "name": "Germany",
+    "capital": "Berlin",
+    "region": "Europe",
+    "population": 83240000,
+    "area": 357022,
+    "languages": ["German"],
+    "currency": { "name": "Euro", "code": "EUR" },
+    "flag": "/flags/germany.png",
+    "description": "A central European country with rich history and engineering prowess.",
+    "timezone": "UTC+01:00"
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "population": 26000000,
+    "area": 7692024,
+    "languages": ["English"],
+    "currency": { "name": "Australian Dollar", "code": "AUD" },
+    "flag": "/flags/australia.png",
+    "description": "A continent-country known for its wildlife and beaches.",
+    "timezone": "UTC+08:00 to UTC+10:30"
+  },
+  {
+    "name": "Egypt",
+    "capital": "Cairo",
+    "region": "Africa",
+    "population": 109300000,
+    "area": 1002450,
+    "languages": ["Arabic"],
+    "currency": { "name": "Egyptian Pound", "code": "EGP" },
+    "flag": "/flags/egypt.png",
+    "description": "Home to ancient pyramids and the Nile River.",
+    "timezone": "UTC+02:00"
+  },
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "population": 1408000000,
+    "area": 3287263,
+    "languages": ["Hindi", "English"],
+    "currency": { "name": "Indian Rupee", "code": "INR" },
+    "flag": "/flags/india.png",
+    "description": "A diverse country rich in culture, religion, and history.",
+    "timezone": "UTC+05:30"
+  },
+  {
+    "name": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "population": 67390000,
+    "area": 551695,
+    "languages": ["French"],
+    "currency": { "name": "Euro", "code": "EUR" },
+    "flag": "/flags/france.png",
+    "description": "The heart of art, fashion, and the Eiffel Tower.",
+    "timezone": "UTC+01:00"
+  },
+  {
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "region": "Africa",
+    "population": 60000000,
+    "area": 1219090,
+    "languages": ["Zulu", "Xhosa", "Afrikaans", "English"],
+    "currency": { "name": "South African Rand", "code": "ZAR" },
+    "flag": "/flags/south-africa.png",
+    "description": "Known for its wildlife safaris and cultural diversity.",
+    "timezone": "UTC+02:00"
+  },
+  {
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "region": "North America",
+    "population": 331000000,
+    "area": 9833517,
+    "languages": ["English"],
+    "currency": { "name": "United States Dollar", "code": "USD" },
+    "flag": "/flags/usa.png",
+    "description": "A global superpower with a wide range of landscapes and cultures.",
+    "timezone": "UTC−04:00 to UTC−10:00"
+  }
+]
