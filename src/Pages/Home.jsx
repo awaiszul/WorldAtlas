@@ -1,5 +1,5 @@
 import { FaLongArrowAltRight } from "react-icons/fa";
-import Images from '../Images/Img.jpg';
+import Images from '../Images/img.jpg';
 import "./Home.css"
 import { About } from "./About";
 export const Home = ()=>{
